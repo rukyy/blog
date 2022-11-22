@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "Body": "this is the new web site that was created in the process of learning react app",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "welcome party",
+      "Body": "welcome to the party",
+      "author": "James",
+      "id": 2
+    },
+    {
+      "title": "web dev top tips",
+      "Body": "see wb dev ....",
+      "author": "ruky",
+      "id": 3
+    }
+  ]
+}
